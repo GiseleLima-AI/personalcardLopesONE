@@ -182,18 +182,10 @@ body {
         justify-content: center;
     }
     .logo {
-    max-width: 20%;
+    max-width: 40%;
     padding: 0% 25%;
-    animation: rotacao 5s linear infinite; /* Tempo, direção e repetição da animação */
-}
-
-@keyframes rotacao {
-  from {
-    transform: rotate(0deg); /* Começa com 0 graus */
-  }
-  to {
-    transform: rotate(360deg); /* Termina com 360 graus (uma volta completa) */
-  }
+    transform-origin: 50% 50%; /* Define o ponto de pivô no centro */
+    transform: rotate(45deg); /* Rotação de 45 graus */
 }
     
     .apresentacao {
