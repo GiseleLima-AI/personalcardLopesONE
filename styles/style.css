@@ -19,7 +19,7 @@ body {
 }
 
 .imagem_geral {
-  max-width: 70%;
+  max-width: 60%;
   height: auto;
   padding: 0% 0% 0% 20%;
   border-radius: 15%;
@@ -203,7 +203,7 @@ body {
 }
     .imagem_geral {
     max-width: 80%;
-    width: 60%;
+    width: 80%;
     padding: 0% 0% 0% 20%;
     height: auto;
     border-radius: 15%;
