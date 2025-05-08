@@ -19,7 +19,7 @@ body {
 }
 
 .imagem_geral {
-  /*max-width: 70%;*/
+  max-width: 70%;
   height: auto;
   border-radius: 15%;
   align-items: center;
