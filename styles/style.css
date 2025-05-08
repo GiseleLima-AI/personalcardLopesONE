@@ -21,7 +21,7 @@ body {
 .imagem_geral {
   max-width: 70%;
   height: auto;
-  padding: 0% 0% 0% 30%;
+  padding: 0% 0% 0% 20%;
   border-radius: 15%;
   align-items: center;
 }
@@ -204,7 +204,7 @@ body {
     .imagem_geral {
     max-width: 80%;
     width: 60%;
-    padding: 0% 0% 0% 30%;
+    padding: 0% 0% 0% 20%;
     height: auto;
     border-radius: 15%;
 }
