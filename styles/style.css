@@ -182,10 +182,20 @@ body {
         justify-content: center;
     }
     .logo {
-    max-width: 100%;
+    max-width: 20%;
     padding: 0% 25%;
-    /*animation: rotacao 5s linear infinite;*/
+    animation: rotacao 5s linear infinite; /* Tempo, direção e repetição da animação */
 }
+
+@keyframes rotacao {
+  from {
+    transform: rotate(0deg); /* Começa com 0 graus */
+  }
+  to {
+    transform: rotate(360deg); /* Termina com 360 graus (uma volta completa) */
+  }
+}
+    
     .apresentacao {
         flex-direction: column-reverse;
         padding: 1%;
