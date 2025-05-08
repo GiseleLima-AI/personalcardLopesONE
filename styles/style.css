@@ -28,6 +28,7 @@ body {
   max-width: 40%;
   padding: 1% 50% 0% 30%;
   width: 100%;
+  transform: rotate(45deg);
   /*height: auto;*/
 }
 
