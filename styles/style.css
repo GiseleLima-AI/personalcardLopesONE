@@ -19,7 +19,7 @@ body {
 }
 
 .imagem_geral {
-  max-width: 70%;
+  /*max-width: 70%;*/
   height: auto;
   border-radius: 15%;
   align-items: center;
@@ -27,7 +27,7 @@ body {
 
 .logo {
   max-width: 70%;
-  padding: 1% 50% 0% 30%;
+  padding: 1% 50% 0% 50%;
   width: 20%;
   /*height: auto;*/
 }
