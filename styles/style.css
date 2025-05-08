@@ -201,7 +201,7 @@ body {
     width: 80%;
 }
     .imagem_geral {
-    /*max-width: 80%;*/
+    max-width: 80%;
     width: 60%;
     height: auto;
     border-radius: 15%;
