@@ -182,10 +182,8 @@ body {
         justify-content: center;
     }
     .logo {
-    max-width: 40%;
+    max-width: 50%;
     padding: 0% 25%;
-    transform-origin: 50% 50%; /* Define o ponto de pivô no centro */
-    transform: rotate(45deg); /* Rotação de 45 graus */
 }
     
     .apresentacao {
