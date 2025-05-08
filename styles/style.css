@@ -27,7 +27,7 @@ body {
 
 .logo {
   max-width: 70%;
-  padding: 1% 50% 0% 50%;
+  padding: 1% 50% 0% 30%;
   width: 20%;
   /*height: auto;*/
 }
@@ -184,7 +184,7 @@ body {
         justify-content: center;
     }
     .logo {
-    max-width: 100%;
+    /*max-width: 100%;*/
     padding: 0% 25% 0% 25%;
 }
     
